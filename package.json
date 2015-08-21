@@ -1,0 +1,15 @@
+{
+  "name": "@aweary/except",
+  "version": "0.0.1",
+  "description": "Blacklist object property keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Dail <Kierkegaurd@gmail.com> (http://www.brandondail.me)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.4"
+  }
+}
